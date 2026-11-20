@@ -1,0 +1,64 @@
+﻿=============================================
+Image: medicine.jpg
+Recognized text:
+   PARACETAMOL 500 mg
+   LOT B99414
+   MFG: 03/2024
+   EXP: 05/2025
+
+Today: 2026-11-20
+Expiration date: 2025-05-31
+EXPIRED
+Нәтиже: Мерзімі өтіп кеткен
+Мерзімі 538 күн бұрын өтіп кеткен
+=============================================
+Image: medicine_2.jpg
+Recognized text:
+   IBUPROFEN 200 mg
+   LOT A12345
+   MFG: 12/2024
+   EXP: 12/2026
+
+Today: 2026-11-20
+Expiration date: 2026-12-31
+NOT EXPIRED
+Нәтиже: Мерзімі өтпеген
+Мерзімнің аяқталуына 41 күн қалды
+=============================================
+Image: medicine_3.jpg
+Recognized text:
+   AMOXICILLIN 250 mg
+   LOT C77881
+   MFG: 08/2025
+   EXP: 08/2027
+
+Today: 2026-11-20
+Expiration date: 2027-08-31
+NOT EXPIRED
+Нәтиже: Мерзімі өтпеген
+Мерзімнің аяқталуына 284 күн қалды
+=============================================
+Image: medicine_4.jpg
+Recognized text:
+   (01) 00307663074806
+   EXP 2026-10-28
+   LOT B99414
+
+Today: 2026-11-20
+Expiration date: 2026-10-28
+EXPIRED
+Нәтиже: Мерзімі өтіп кеткен
+Мерзімі 23 күн бұрын өтіп кеткен
+=============================================
+Image: medicine_5.jpg
+Recognized text:
+   ASPIRIN 100 mg
+   LOT D55012
+   MFG: 11/2024
+   EXP: 11/2026
+
+Today: 2026-11-20
+Expiration date: 2026-11-30
+EXPIRING SOON
+Нәтиже: Мерзімі жақында бітеді
+Мерзімнің аяқталуына 10 күн қалды
